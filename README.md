@@ -46,7 +46,3 @@ streamlit run app/main.py
 - Add user ratings for collaborative filtering
 - Integrate with TMDB API for posters and trailers
 - Deploy on a Flask/Streamlit-based movie website
-
----
-
-🍿 Made with love using Scikit-learn and Streamlit.
